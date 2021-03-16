@@ -115,6 +115,7 @@ data, layout = get_stacked_bar(df)
 
 ## Start App
 app = dash.Dash(__name__)
+server = app.server
 
 #app.css.config.serve_locally = True
 #app.scripts.config.serve_locally = True
