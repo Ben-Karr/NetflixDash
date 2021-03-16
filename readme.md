@@ -1,0 +1,1 @@
+Deployed on heroku at: https://netflix-viz.herokuapp.com/
